@@ -44,4 +44,9 @@ Total non-vine reviews are 40471. The image below shows the code to get the data
 
 ## Summary
 
-I do believe that there is a positivity bias. 
+I do believe that there is a positivity bias. People that are in the vine program are usually people that are more well known for doing product reviews and when people watch a review by them they will likely rate the video higher than non-vine users. This is pretty apparent in the images below.
+
+![image](https://user-images.githubusercontent.com/92827264/160322711-1a4c7dc3-660c-4a37-86f5-4bfc1648a5f5.png)
+![image](https://user-images.githubusercontent.com/92827264/160322727-2a231d42-42d1-43a9-97ba-f59a64190ea4.png)
+
+If you look at the number of 1 star votes from paid to unpaid it is drastic difference. Vine program has most votes in 5-3 star range where non-vine has most of the votes in 5 and 1 stars. This is most likely 
